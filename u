@@ -1,4 +1,13 @@
 # ===============================================================
+#         Google
+www.googleadservices.com
+#googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+#ad.doubleclick.net
+ssl.google-analytics.com
+adservice.google.de
+ade.googlesyndication.com
+id.google.de
 #         TEST
 media.fvno3-1.fna.whatsapp.net
 media.fykz1-1.fna.whatsapp.net
@@ -644,16 +653,7 @@ appspot-preview.l.google.com
 m.quantcount.com
 app.adjust.com
 utraffic.engine.adglare.net
-#         Google
-www.googleadservices.com
-googleads.g.doubleclick.net
-securepubads.g.doubleclick.net
-ad.doubleclick.net
-ssl.google-analytics.com
-adservice.google.de
-ade.googlesyndication.com
-id.google.de
-# Apple
+#         Apple
 stats.gc.apple.com
 iadsdk.apple.com
 #         Huawei
