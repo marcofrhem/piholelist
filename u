@@ -9,28 +9,28 @@ adservice.google.de
 ade.googlesyndication.com
 id.google.de
 #         TEST
-media.fvno3-1.fna.whatsapp.net
-media.fykz1-1.fna.whatsapp.net
-media.fymq2-1.fna.whatsapp.net
-media.fyyz1-2.fna.whatsapp.net
-media.fzrh1-1.fna.whatsapp.net
-g.whatsapp.net
-graph.whatsapp.net
-kaios.whatsapp.net
-mme.whatsapp.net
-mme-fna.whatsapp.net
-mmg.whatsapp.net
-mmg-fna.whatsapp.net
-mmh-fna.whatsapp.net
-mms.whatsapp.net
-a.ns.whatsapp.net
-b.ns.whatsapp.net
-pps.whatsapp.net
-scontent.whatsapp.net
-static.whatsapp.net
-v.whatsapp.net
-www-cdn.whatsapp.net
-crashlogs.whatsapp.net
+#media.fvno3-1.fna.whatsapp.net
+#media.fykz1-1.fna.whatsapp.net
+#media.fymq2-1.fna.whatsapp.net
+#media.fyyz1-2.fna.whatsapp.net
+#media.fzrh1-1.fna.whatsapp.net
+#g.whatsapp.net
+#graph.whatsapp.net
+#kaios.whatsapp.net
+#mme.whatsapp.net
+#mme-fna.whatsapp.net
+#mmg.whatsapp.net
+#mmg-fna.whatsapp.net
+#mmh-fna.whatsapp.net
+#mms.whatsapp.net
+#a.ns.whatsapp.net
+#b.ns.whatsapp.net
+#pps.whatsapp.net
+#scontent.whatsapp.net
+#static.whatsapp.net
+#v.whatsapp.net
+#www-cdn.whatsapp.net
+#crashlogs.whatsapp.net
 #         GOOGLETEST
 tpc.googlesyndication.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -896,7 +896,6 @@ avpro.global.yamaha.com
 0.0.0.0 abtest-va-tiktok.byteoversea.com
 0.0.0.0 abtest-va.byteoversea.com
 0.0.0.0 activity.musical.ly
-0.0.0.0 activity.tiktok.com
 0.0.0.0 ad-lb-alisg.byteoversea.net
 0.0.0.0 ad-lb-maliva.byteoversea.net
 0.0.0.0 ads.tiktok.com
@@ -908,17 +907,6 @@ avpro.global.yamaha.com
 0.0.0.0 api-dev.musical.ly
 0.0.0.0 api-h2-eagle.tiktokv.com
 0.0.0.0 api-h2.tiktokv.com
-0.0.0.0 api-m.tiktok.com
-0.0.0.0 api-s1-h2.musical.ly
-0.0.0.0 api-s1-h2.tiktokv.com
-0.0.0.0 api-s1-quic.musical.ly
-0.0.0.0 api-s1-quic.tiktokv.com
-0.0.0.0 api-t.tiktok.com
-0.0.0.0 api-t.tiktokv.com
-0.0.0.0 api-t1.tiktokv.com
-0.0.0.0 api-t2.tiktokv.com
-0.0.0.0 api-t3.tiktokv.com
-0.0.0.0 api-va.tiktokv.com
 0.0.0.0 api.musical.ly
 0.0.0.0 api.tiktok.com
 0.0.0.0 api.tiktokv.com
